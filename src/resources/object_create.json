@@ -1,0 +1,9 @@
+{
+    "name": "{objectName}",
+    "data": {
+       "year": {objectYear},
+       "price": {objectPrice},
+       "CPU model": "{objectCPUModel}",
+       "Hard disk size": "{objectHardDiskSize}"
+    }
+ }
